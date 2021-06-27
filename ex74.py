@@ -11,7 +11,7 @@ lista_soma  = [2, 4, 6, 8]
 """
 
 lista_A = [100, 2, 3, 4, 5]
-lista_B = [1, 2, 3, 1.2, 5]
+lista_B = [1, 2, 3, 1.2]
 soma = []
 
 if len(lista_A) <= len(lista_B):
